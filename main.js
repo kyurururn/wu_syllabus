@@ -154,7 +154,7 @@ document.getElementById("push").addEventListener("click", function(){
         element.remove();
     });
 
-    const apiUrl = 'http://127.0.0.1:5000/api/data?' + search();
+    const apiUrl = 'http://133.42.215.105:5000/api/data?' + search();
 
     fetch(apiUrl)
     .then(response => {
