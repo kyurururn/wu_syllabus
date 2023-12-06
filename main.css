@@ -140,8 +140,8 @@ body{
 .footer-class{
     position:fixed;
     background-color:rgb(235, 235, 235);
-    height:50vh;
-    height:50dvh;
+    height:70vh;
+    height:70dvh;
     width:100vw;
     bottom:-50vh;
     z-index:100;
@@ -152,8 +152,8 @@ body{
 .footer-soq{
     position:fixed;
     background-color:rgb(235, 235, 235);
-    height:50vh;
-    height:50dvh;
+    height:70vh;
+    height:70dvh;
     width:100vw;
     bottom:-50vh;
     z-index:100;
@@ -164,8 +164,8 @@ body{
 .footer-date{
     position:fixed;
     background-color:rgb(235, 235, 235);
-    height:50vh;
-    height:50dvh;
+    height:70vh;
+    height:70dvh;
     width:100vw;
     bottom:-50vh;
     z-index:100;
@@ -176,8 +176,8 @@ body{
 .footer-period{
     position:fixed;
     background-color:rgb(235, 235, 235);
-    height:50vh;
-    height:50dvh;
+    height:70vh;
+    height:70dvh;
     width:100vw;
     bottom:-50vh;
     z-index:100;
@@ -188,8 +188,8 @@ body{
 .footer-year{
     position:fixed;
     background-color:rgb(235, 235, 235);
-    height:50vh;
-    height:50dvh;
+    height:70vh;
+    height:70dvh;
     width:100vw;
     bottom:-50vh;
     z-index:100;
