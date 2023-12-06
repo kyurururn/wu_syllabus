@@ -73,11 +73,11 @@ document.getElementById("detail-year").addEventListener("click", function(){
 document.getElementById("cover").addEventListener("click", function(){
     document.getElementById("cover").style.display = "none";
     document.getElementById("cover").style.opacity = "0";
-    document.getElementById('footer-class').style.bottom = '-70vh';
-    document.getElementById('footer-soq').style.bottom = '-70vh';
-    document.getElementById("footer-date").style.bottom = "-70vh";
-    document.getElementById("footer-period").style.bottom = "-70vh";
-    document.getElementById("footer-year").style.bottom = "-70vh";
+    document.getElementById('footer-class').style.bottom = '-50vh';
+    document.getElementById('footer-soq').style.bottom = '-50vh';
+    document.getElementById("footer-date").style.bottom = "-50vh";
+    document.getElementById("footer-period").style.bottom = "-50vh";
+    document.getElementById("footer-year").style.bottom = "-50vh";
 })
 
 
