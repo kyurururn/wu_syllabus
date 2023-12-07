@@ -147,7 +147,6 @@ function search(){
 }
 
 document.getElementById("push").addEventListener("click", function(){
-    alert("push A")
     const elementsToRemove = document.querySelectorAll('.showClass-detail');
 
     // 取得した要素を一つずつ削除
@@ -156,8 +155,6 @@ document.getElementById("push").addEventListener("click", function(){
     });
 
     const apiUrl = 'https://syllabus-search-light.onrender.com/api/data?' + search();
-
-    alert(apiUrl)
 
     fetch(apiUrl)
     .then(response => {
